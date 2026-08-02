@@ -4,18 +4,48 @@ An end-to-end Power BI analytics project that transforms six months of hospital 
 
 ---
 
-# Project Snapshot
+## Quick Navigation
 
-| Item | Details |
-|------|---------|
-| **Project Status** | Completed |
-| **Domain** | Healthcare Analytics |
-| **Project Type** | Executive Dashboard |
-| **Tools** | Power BI (Power Query, DAX) |
-| **Dataset** | Six Months of Hospital Operational Data |
-| **Dashboard Type** | Interactive Executive Dashboard |
-| **Documentation** | Complete |
-| **Author** | Chukwuemeka Onyekaodiri |
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Objectives](#objectives)
+- [Project Workflow](#project-workflow)
+- [Dashboard Features](#dashboard-features)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Repository Structure](#repository-structure)
+- [Project Documentation](#project-documentation)
+- [Future Improvements](#future-improvements)
+- [About the Author](#about-the-author)
+
+---
+
+# Project Documentation
+
+The complete technical documentation for this project is available below.
+
+| Document | Description |
+|----------|-------------|
+| [Project Overview](docs/Project%20Overview.md) | Introduces the project, business problem, objectives, and scope. |
+| [Data Preparation](docs/Data%20Preparation.md) | Documents the complete Power Query workflow, including cleaning, transformation, and optimization. |
+| [Data Modeling](docs/Data%20Modeling.md) | Explains the Star Schema, relationships, Date Table, and model design decisions. |
+| [Business KPIs and DAX Measures](docs/Business%20KPIs%20and%20DAX%20Measures.md) | Documents every KPI, DAX measure, and its business purpose. |
+| [Dashboard Design](docs/Dashboard%20Design.md) | Explains the dashboard planning process, wireframe, visual selection, and layout decisions. |
+| [Exploratory Analysis](docs/Exploratory%20Analysis.md) | Documents the additional investigations completed beyond the dashboard requirements. |
+| [Findings and Recommendations](docs/Findings%20and%20Recommendations.md) | Summarizes the project findings and business recommendations. |
+| [Project Reflection](docs/Project%20Reflection.md) | Reflects on the lessons learned and the analytical approach developed throughout the project. |
+
+---
+
+## Repository Contents
+
+- 1 Interactive Power BI Dashboard
+- 1 Power BI Project (.pbix)
+- 8 Technical Documentation Files
+- 1 Data Dictionary
+- Dashboard Screenshots
+- Presentation Slides
 
 ---
 
@@ -94,6 +124,17 @@ The dashboard includes the following KPIs:
 
 ---
 
+# Project Highlights
+
+- Combined six monthly hospital datasets into a single analytical model.
+- Built a Star Schema data model to support scalable reporting.
+- Developed business KPIs using DAX.
+- Designed an executive dashboard based on a wireframe.
+- Conducted exploratory analysis beyond the project requirements.
+- Produced evidence-based business recommendations.
+
+---
+
 # Key Findings
 
 The analysis covered **480 hospital visits** involving **117 unique patients** across a six-month reporting period.
@@ -169,11 +210,22 @@ Potential enhancements for future versions include:
 
 Data Analyst
 
-**Portfolio:** *(https://www.chukwuemekaonyekaodiri.com/)*
+---
 
-**LinkedIn:** *(www.linkedin.com/in/chukwuemeka-onyekaodiri-53881560)*
+## Connect With Me
+
+**Portfolio:** https://https://www.chukwuemekaonyekaodiri.com/
+
+**LinkedIn:** https://linkedin.com/in/chukwuemeka-onyekaodiri-53881560
+
+**GitHub:** https://github.com/CDatacentric/CDatacentric
 
 ---
+
+Thank you for taking the time to explore this project. Feedback and suggestions are always welcome.
+
+---
+
 
 # License
 
