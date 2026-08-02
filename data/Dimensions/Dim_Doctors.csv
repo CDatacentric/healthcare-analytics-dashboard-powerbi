@@ -1,0 +1,25 @@
+﻿DoctorID,DoctorName,DepartmentID,Specialty,Grade,YearsExperience
+DOC001,Dr Grace Clark,DEP001,EMERGENCY MEDICINE,Specialist,28
+DOC002,Dr Ibrahim Brown,DEP002, Cardiology ,Registrar,14
+DOC003,Dr James Hall,DEP003, Neurology ,Senior Registrar,8
+DOC004,Dr Benjamin Mensah,DEP004,Orthopaedics,Specialist,26
+DOC005,Dr Daniel Lewis,DEP005,Paediatrics,Consultant,20
+DOC006,Dr Amina Okafor,DEP006, Gynaecology ,Specialist,12
+DOC007,Dr Samuel Allen,DEP007,GENERAL MEDICINE,Senior Registrar,24
+DOC008,Dr Ethan Davis,DEP008,radiology,Senior Registrar,15
+DOC009,Dr Benjamin Scott,DEP001,EMERGENCY MEDICINE,Specialist,26
+DOC010,Dr Hannah Mensah,DEP002,Cardiology,Specialist,17
+DOC011,Dr Michael Williams,DEP003,Neurology,Specialist,3
+DOC012,Dr James Allen,DEP004,orthopaedics,Senior Registrar,7
+DOC013,Dr Chiamaka Mensah,DEP005,PAEDIATRICS,Consultant,28
+DOC014,Dr Fatima Young,DEP006,Gynecology,Senior Registrar,18
+DOC015,Dr James Clark,DEP007,General Medicine,Senior Registrar,16
+DOC016,Dr Benjamin Clark,DEP008, Radiology ,Senior Registrar,5
+DOC017,Dr James Scott,DEP001,EMERGENCY MEDICINE,Consultant,28
+DOC018,Dr Ella Adeyemi,DEP002,cardiology,Senior Registrar,18
+DOC019,Dr Lucas Baker,DEP003,Neurology,Specialist,21
+DOC020,Dr Ethan Taylor,DEP004,orthopaedics,Registrar,6
+DOC021,Dr Ibrahim Walker,DEP005,Pediatrics,Specialist,17
+DOC022,Dr Benjamin Taylor,DEP006,Gynaecology,Consultant,3
+DOC023,Dr Noah Taylor,DEP007,General Medicine,Consultant,20
+DOC024,Dr David Green,DEP008,RADIOLOGY,Specialist,16

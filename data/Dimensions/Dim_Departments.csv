@@ -1,0 +1,9 @@
+﻿DepartmentID,DepartmentName,Floor,BedCapacity,StaffCount
+DEP001, emergency,Ground Floor,35,24
+DEP002, cardiology ,First Floor,28,18
+DEP003,neurology,Second Floor,22,14
+DEP004, orthopaedics,Second Floor,30,16
+DEP005,Pediatrics,First Floor,26,18
+DEP006, gynaecology,Third Floor,24,15
+DEP007,General Medicine,Ground Floor,40,25
+DEP008,radiology,Lower Ground,18,12
