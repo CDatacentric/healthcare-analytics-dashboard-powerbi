@@ -1,11 +1,34 @@
 # Images
 
-This directory contains screenshots used throughout the repository.
+This directory stores screenshots referenced throughout the project documentation.
 
-Examples include:
+## Planned Images
 
-- Dashboard preview
-- Power Query transformations
-- Data Model
-- Wireframe
-- Visualizations
+### Dashboard
+
+- Executive Dashboard.png
+- Dashboard KPIs.png
+- Dashboard Filters.png
+
+### Data Preparation
+
+- Power Query - Applied Steps.png
+- Power Query - Query Dependencies.png
+
+### Data Modeling
+
+- Data Model.png
+- Star Schema.png
+- Relationships.png
+- Date Table.png
+- DAX Measures Table.png
+
+### Dashboard Planning
+
+- Dashboard Wireframe.png
+
+---
+
+## Purpose
+
+These screenshots provide visual evidence of the implementation described throughout the project documentation.
