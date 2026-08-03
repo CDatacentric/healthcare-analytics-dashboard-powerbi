@@ -51,7 +51,7 @@ The complete technical documentation for this project is available below.
 
 # Dashboard Preview
 
-> *(Dashboard screenshot will be added here.)*
+![Executive Dashboard](images/Executive Dashboard.png)
 
 ---
 
